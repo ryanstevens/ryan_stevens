@@ -7,15 +7,22 @@ const whi = chalk.white.bind(chalk);
 
 console.log(`
 
-${yel(`***********************************************`)}
-${yel(`**                                           **`)}
-${yel(`**                                           **`)}
-${yel(`**               ${whi(bol(`Ryan Stevens`))}                **`)}
-${yel(`**                                           **`)}
-${yel(`**                                           **`)}
-${yel(`***********************************************`)}
+  ${yel(`***********************************************`)}
+  ${yel(`**                                           **`)}
+  ${yel(`**                                           **`)}
+  ${yel(`**               ${whi(bol(`Ryan Stevens`))}                **`)}
+  ${yel(`**                                           **`)}
+  ${yel(`**                                           **`)}
+  ${yel(`***********************************************`)}
 
 
+  ${yel(`Website       `)}${whi(bol(`https://ryanstevens.me/`))}
+  ${yel(`Twitter       `)}${whi(bol(`https://twitter.com/@ryan_stevens`))}
+  ${yel(`Github        `)}${whi(bol(`https://github.com/ryanstevens`))}
+  ${yel(`LinkedIn      `)}${whi(bol(`https://www.linkedin.com/in/ryanstevens/`))}
+
+  ${yel(`Company        `)}${whi(bol(`DynaBlocks.io`))}
+  ${yel(`Talk to me     `)}${whi(bol(`Twitter DM`))}
 
 
 `);
