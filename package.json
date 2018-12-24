@@ -1,0 +1,16 @@
+{
+  "author": {
+    "name": "Ryan Stevens"
+  },
+  "bin": {
+    "ryan_stevens": "index.js"
+  },
+  "description": "Meta information for Ryan Stevens",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "ryan_stevens",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
